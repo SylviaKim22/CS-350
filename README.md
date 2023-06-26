@@ -1,5 +1,5 @@
 # CS-350
-SingleByte Project:
+SingleByte Project: 
 The main objective of this project was to utilize a single byte stored in a serial buffer. The characters entered by the user were iterated through a switch/case construct, enabling them to input either 'on' or 'off' into the terminal. The LED on the board was controlled based on whether the user typed 'on' or 'off', resulting in the corresponding action.
 I am pleased with my performance in implementing the switch/case construct, particularly considering that it was my first genuine attempt at utilizing it. Although it required some experimentation and refinement, the end result was highly satisfactory and well-organized.
 There are areas where I can strive for improvement. One such area is simplifying the code further by incorporating the inputs directly into the transition arc instead of utilizing if statements. This approach would contribute to a more streamlined and concise implementation.
